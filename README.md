@@ -96,12 +96,12 @@ Feel free to read the topics in any order, though the numbered sequence provides
 
 ## 🙏 Acknowledgments
 
-This repository is based on learning materials from **[Concept && Coding - by Shreyans](https://www.youtube.com/@ConceptandCoding)** YouTube channel. All diagrams and screenshots used in these notes are sourced from the channel's educational content.
+This repository is based on learning materials from **[Concept && Coding - by Shreyans](https://www.youtube.com/@ConceptAndCodingByShrayansh)** YouTube channel. All diagrams and screenshots used in these notes are sourced from the channel's educational content.
 
 Special thanks to **Shreyans Jain** for creating exceptional content that makes complex system design concepts accessible and understandable. His clear teaching style and practical approach have been instrumental in building this knowledge base.
 
 ### Recommended Resources
-- 📺 [Concept && Coding YouTube Channel](https://www.youtube.com/@ConceptandCoding)
+- 📺 [Concept && Coding YouTube Channel](https://www.youtube.com/@ConceptAndCodingByShrayansh)
 - 🔗 Subscribe for more system design and coding content
 
 ## 💡 Contributing
