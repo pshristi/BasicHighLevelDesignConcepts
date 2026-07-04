@@ -46,6 +46,9 @@ This project is a curated collection of detailed notes created while learning fr
 ### Containers & Orchestration
 28. **[Docker and Kubernetes](src/main/java/com/example/learninghld/28.%20DockerAndKubernetes.md)** - Container fundamentals, Dockerfiles, Compose, and Kubernetes architecture/resources
 
+### Data & Search
+29. **[Elasticsearch](src/main/java/com/example/learninghld/29.%20Elasticsearch.md)** - Distributed search engine: indexes, shards, replicas, and the ELK stack
+
 ## 🗂️ Repository Structure
 
 ```
@@ -77,7 +80,8 @@ src/main/java/com/example/learninghld/
 ├── 25. ServiceMeshAndItsArchitecture.md
 ├── 26. DNS.md
 ├── 27. ObservabilityInDistributedSystem.md
-└── 28. DockerAndKubernetes.md
+├── 28. DockerAndKubernetes.md
+└── 29. Elasticsearch.md
 
 src/main/resources/
 └── [Supporting images and diagrams]
@@ -85,7 +89,7 @@ src/main/resources/
 
 ## 🎯 Key Features
 
-- **Comprehensive Coverage**: 28+ topics covering essential HLD concepts
+- **Comprehensive Coverage**: 29+ topics covering essential HLD concepts
 - **Real-world Examples**: Practical applications and use cases
 - **Visual Aids**: Screenshots and diagrams for better understanding
 - **Structured Learning**: Topics organized in a logical progression
