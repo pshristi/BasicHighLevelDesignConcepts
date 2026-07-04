@@ -14,14 +14,14 @@ This project is a curated collection of detailed notes created while learning fr
 3. **[Microservice Design Patterns](src/main/java/com/example/learninghld/3.%20MicroserviceDesignPatterns.md)** - Architectural patterns for microservices
 4. **[Scale from 0 to Million Users](src/main/java/com/example/learninghld/4.%20ScaleFrom0ToMillion.md)** - Growth strategies
 5. **[Consistent Hashing](src/main/java/com/example/learninghld/5.%20ConsistentHashing.md)** - Distributed data partitioning strategy
-6. **[Back of the Envelope Estimation](src/main/java/com/example/learninghld/6.%20BackOfTheEnvelopEstimation.md)** - Quick system capacity calculations
+6. **[Back of the Envelope Estimation](src/main/java/com/example/learninghld/6.%20BackOfTheEnvelopeEstimation.md)** - Quick system capacity calculations
 7. **[SQL vs NoSQL](src/main/java/com/example/learninghld/7.%20SqlVsNoSql.md)** - Database selection and trade-offs
 
 ### System Design Components
 8. **[Rate Limiter Design](src/main/java/com/example/learninghld/8.%20DesignARateLimiter.md)** - Controlling request rates
 9. **[Video Calling HLD](src/main/java/com/example/learninghld/9.%20VideoCallingHLD.md)** - Real-time communication system design
-10. **[Idempotency Handler](src/main/java/com/example/learninghld/10.%20DesignIndempotencyHandler.md)** - Ensuring safe retry mechanisms
-11. **[High Availability and Resilience Systems](src/main/java/com/example/learninghld/11.%20DesignHighAvailabilityAndResilenceSystem.md)** - Building fault-tolerant systems
+10. **[Idempotency Handler](src/main/java/com/example/learninghld/10.%20DesignIdempotencyHandler.md)** - Ensuring safe retry mechanisms
+11. **[High Availability and Resilience Systems](src/main/java/com/example/learninghld/11.%20DesignHighAvailabilityAndResilienceSystem.md)** - Building fault-tolerant systems
 12. **[Distributed Messaging Queue](src/main/java/com/example/learninghld/12.%20DistributedMessagingQueue.md)** - Asynchronous communication patterns
 13. **[Proxy vs Reverse Proxy](src/main/java/com/example/learninghld/13.%20ProxyVsReverseProxy.md)** - Network intermediaries
 14. **[Load Balancer](src/main/java/com/example/learninghld/14.%20LoadBalancer.md)** - Traffic distribution strategies
@@ -40,6 +40,12 @@ This project is a curated collection of detailed notes created while learning fr
 25. **[Service Mesh and Its Architecture](src/main/java/com/example/learninghld/25.%20ServiceMeshAndItsArchitecture.md)** - Infrastructure layer for service-to-service communication
 26. **[DNS](src/main/java/com/example/learninghld/26.%20DNS.md)** - Domain Name System architecture
 
+### Observability & Monitoring
+27. **[Observability in Distributed Systems](src/main/java/com/example/learninghld/27.%20ObservabilityInDistributedSystem.md)** - Logging, metrics, tracing, and APM
+
+### Containers & Orchestration
+28. **[Docker and Kubernetes](src/main/java/com/example/learninghld/28.%20DockerAndKubernetes.md)** - Container fundamentals, Dockerfiles, Compose, and Kubernetes architecture/resources
+
 ## 🗂️ Repository Structure
 
 ```
@@ -49,12 +55,12 @@ src/main/java/com/example/learninghld/
 ├── 3. MicroserviceDesignPatterns.md
 ├── 4. ScaleFrom0ToMillion.md
 ├── 5. ConsistentHashing.md
-├── 6. BackOfTheEnvelopEstimation.md
+├── 6. BackOfTheEnvelopeEstimation.md
 ├── 7. SqlVsNoSql.md
 ├── 8. DesignARateLimiter.md
 ├── 9. VideoCallingHLD.md
-├── 10. DesignIndempotencyHandler.md
-├── 11. DesignHighAvailabilityAndResilenceSystem.md
+├── 10. DesignIdempotencyHandler.md
+├── 11. DesignHighAvailabilityAndResilienceSystem.md
 ├── 12. DistributedMessagingQueue.md
 ├── 13. ProxyVsReverseProxy.md
 ├── 14. LoadBalancer.md
@@ -69,7 +75,9 @@ src/main/java/com/example/learninghld/
 ├── 23. ThunderingHerdEffect.md
 ├── 24. APIGateway.md
 ├── 25. ServiceMeshAndItsArchitecture.md
-└── 26. DNS.md
+├── 26. DNS.md
+├── 27. ObservabilityInDistributedSystem.md
+└── 28. DockerAndKubernetes.md
 
 src/main/resources/
 └── [Supporting images and diagrams]
@@ -77,7 +85,7 @@ src/main/resources/
 
 ## 🎯 Key Features
 
-- **Comprehensive Coverage**: 26+ topics covering essential HLD concepts
+- **Comprehensive Coverage**: 28+ topics covering essential HLD concepts
 - **Real-world Examples**: Practical applications and use cases
 - **Visual Aids**: Screenshots and diagrams for better understanding
 - **Structured Learning**: Topics organized in a logical progression
