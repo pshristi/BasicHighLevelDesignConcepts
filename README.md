@@ -46,8 +46,9 @@ This project is a curated collection of detailed notes created while learning fr
 ### Containers & Orchestration
 28. **[Docker and Kubernetes](src/main/java/com/example/learninghld/28.%20DockerAndKubernetes.md)** - Container fundamentals, Dockerfiles, Compose, and Kubernetes architecture/resources
 
-### Data & Search
+### Tech and tools
 29. **[Elasticsearch](src/main/java/com/example/learninghld/29.%20Elasticsearch.md)** - Distributed search engine: indexes, shards, replicas, and the ELK stack
+30. **[Pulsar](src/main/java/com/example/learninghld/30.%20Pulsar.md)** - Pulsar
 
 ## 🗂️ Repository Structure
 
@@ -81,7 +82,8 @@ src/main/java/com/example/learninghld/
 ├── 26. DNS.md
 ├── 27. ObservabilityInDistributedSystem.md
 ├── 28. DockerAndKubernetes.md
-└── 29. Elasticsearch.md
+├── 29. Elasticsearch.md
+└── 30. Pulsar.md
 
 src/main/resources/
 └── [Supporting images and diagrams]
